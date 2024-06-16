@@ -72,8 +72,11 @@ PARPACK/TESTS/MPI/issue46
 *.exp
 *.u2d
 *.suo
-VISUAL_STUDIO/Release MKL/
 VISUAL_STUDIO/bin/
+VISUAL_STUDIO/.vs
+VISUAL_STUDIO/Debug
+VISUAL_STUDIO/Release
+VISUAL_STUDIO/*.aps
 
 # Temporary files
 *~

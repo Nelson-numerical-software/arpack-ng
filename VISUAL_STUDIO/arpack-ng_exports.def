@@ -1,4 +1,4 @@
-LIBRARY    arpack-ng.dll
+LIBRARY    libnlsarpack-ng.dll
 
 
 EXPORTS
